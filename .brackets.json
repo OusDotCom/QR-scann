@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/BAH/Desktop/DevMob/Final/eTicket/platforms/wp8/www/lib/angular-sanitize/angular-sanitize.js",
+        "C:/Users/BAH/Desktop/DevMob/Final/eTicket/platforms/wp8/www/lib/angular-animate/angular-animate.js",
+        "C:/Users/BAH/Desktop/DevMob/Final/eTicket/platforms/android/platform_www/cordova-js-src/android/promptbasednativeapi.js",
+        "C:/Users/BAH/Desktop/DevMob/Final/eTicket/platforms/wp8/www/lib/angular/angular.min.js",
+        "C:/Users/BAH/Desktop/DevMob/Final/eTicket/platforms/wp8/www/lib/angular/angular.js"
+    ]
+}
